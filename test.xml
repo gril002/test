@@ -77,7 +77,7 @@ CELJE_MEDLOG_dir/siwc_20200111-1230_CELJE_MEDLOG_w.jpg
 <t_state>0</t_state>
 <td_var_desc>Temperatura rosišča</td_var_desc>
 <td_var_unit>°C</td_var_unit>
-<td>-0.5</td>
+<td>null</td>
 <t>asfsh</t>
 <td_state>0</td_state>
 <tavg_var_desc>Povprečna temperatura v časovnem intervalu</tavg_var_desc>
